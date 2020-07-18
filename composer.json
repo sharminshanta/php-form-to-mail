@@ -1,0 +1,14 @@
+{
+    "name": "sharminshanta/php-form-to-mail",
+    "description": "PHP form to mail",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sharmin Shanta",
+            "email": "shantaex81@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
