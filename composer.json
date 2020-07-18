@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "phpmailer/phpmailer": "^5.2"
+        "phpmailer/phpmailer": "^6.1"
     }
 }
