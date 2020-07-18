@@ -68,7 +68,7 @@ $mail->AltBody = "This is the plain text version of the email content";
 <html>
 <head>
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Email Template | @yield('title')</title>
+    <title>PHP Form to Mail</title>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.min.js"></script>
