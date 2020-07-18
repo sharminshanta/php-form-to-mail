@@ -13,7 +13,7 @@ $mail->SMTPDebug = 0;
 $mail->isSMTP();
 
 //Set SMTP host name
-$mail->Host = "smtp.gmail.com";
+$mail->Host = "smtp.gmail.com"; // Put your SMTP Host here
 //Set this to true if SMTP host requires authentication to send email
 $mail->SMTPAuth = true;
 
